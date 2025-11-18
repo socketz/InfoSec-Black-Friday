@@ -142,13 +142,18 @@ Deal ends: 18th NovemberDecember (maybe diffrent offers)
 **TheXero** - Premium Offensive Cybersecurity Training  \
 https://training.thexero.co.uk/  
 Safe 65% on Wireless Mastery + BONUS \
-Offer valid until 2nd December
+Offer valid until 2nd December 2025
 
 **HackTricks Training** \
 https://training.hacktricks.xyz  
 -20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
 -15% off on Labs & Exams
 Deal valid until 30th November 2025
+
+**Trainsec** - where the pros train pros \
+https://trainsec.net/cybersecurity-courses-black-friday-2025/
+-40% on all individual courses. Pick any single course in the TrainSec cybersecurity course catalog and apply code **BF2025** at checkout.
+Deal valid until 1st December 2025
 
 ## Exams
 
